@@ -55,5 +55,6 @@ def main():
     print(f"--- Begin report of {book_path} ---")
     print(f"{num_words} words found in the document\n")
     printer(data)
+    print("--- End Report ---")
 
 main()
